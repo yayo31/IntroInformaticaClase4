@@ -2,6 +2,6 @@
 
 3 Estados de GIT:
 
-Commited 👨🏼‍🍳 :cook:
-Staged 🕵🏼‍♂️ :zombie:
-Modified 🎨 :woman_mechanic:
+- **_Commited_** 👨🏼‍🍳 :cook:
+* **_Staged_** 🕵🏼‍♂️ :zombie:
++ **_Modified_** 🎨 :woman_mechanic:

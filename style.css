@@ -1,0 +1,52 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+ html {
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+ }
+   body {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+   }
+/*!  Mediante etiquetas */
+p {
+    padding: 0 2%;
+    font-size: 1.2rem;
+    background: seagreen;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+header {
+    background: rgb(214, 69, 69, 0.8);
+    padding: 0.01% 2%;
+    display: flex;
+ }
+ ul {
+    display: flex;
+      justify-content: flex-end;
+      align-items: center;
+    width: 100%;
+    list-style: none;
+      margin: 3%;
+ }
+
+ /**! Mediante  Clases */
+ .menu-item:not(:last-child) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 2%;
+    border-right: solid 1px white;
+ }
+ .menu-item a {
+    margin: 0 8%;
+      padding: 1%;
+    color: white;
+    font-size: 1.2rem;
+    text-decoration: none;
+    list-style: none;
+    text-transform: uppercase;
+    font-weight: 500;
+    transition: all 0.3s ease;
+ }
