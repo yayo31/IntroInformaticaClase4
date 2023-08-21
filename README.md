@@ -2,6 +2,6 @@
 
 3 Estados de GIT:
 
-- **_Commited_** :cook:
-* **_Staged_**  :zombie:
-+ **_Modified_**  :woman_mechanic:
+- **_Commited_** 🛴
+* **_Staged_**  🛵
++ **_Modified_**  🏍
